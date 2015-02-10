@@ -1,0 +1,22 @@
+{
+  "name": "image_loader",
+  "version": "1.0.0",
+  "description": "Image Loader using Express and Mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:ramky/image_loader.git"
+  },
+  "author": "Ram Iyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramky/image_loader/issues"
+  },
+  "homepage": "https://github.com/ramky/image_loader",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
